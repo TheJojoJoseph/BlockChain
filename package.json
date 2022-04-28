@@ -17,7 +17,6 @@
   "directories": {
     "test": "test"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TheJojoJoseph/BlockChain.git"
